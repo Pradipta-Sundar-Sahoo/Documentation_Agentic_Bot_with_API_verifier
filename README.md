@@ -31,7 +31,7 @@ Simple RAG (memory wagera hei)
 
 ## Major Developements really required 
 
-- Caches ( ye redis/memcache se ho jayega , TTL wagera set karke )
+- Caches ( ye redis/memcache se ho jayega , TTL wagera set karke , Redis LEGEND)
 - Database versioning ( may be you want the prev vectordb)
 - Main Koi NoSQL wagera chahiye , to store data. (mongo is ok)
 - Agentic framework ---> more tools and more better
