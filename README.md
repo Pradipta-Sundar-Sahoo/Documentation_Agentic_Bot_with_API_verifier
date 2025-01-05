@@ -31,11 +31,12 @@ Simple RAG (memory wagera hei)
 
 ## Major Developements really required 
 
-- Caches
-- Database versioning ( may you want the prev vectordb)
+- Caches ( ye redis/memcache se ho jayega , TTL wagera set karke )
+- Database versioning ( may be you want the prev vectordb)
+- Main Koi NoSQL wagera chahiye , to store data. (mongo is ok)
 - Agentic framework ---> more tools and more better
-- URL parser is not perfect ... some websites it cannot scan (((But PDF one is best, Because LLAMA PARSE is ❤️)))
-- Have to use Qdrant ( rust backend , so will be faster for sure)
+- URL parser is not perfect ... some websites it cannot scan (((But PDF one is best, Because LLAMA PARSE is ❤️))) ---- url waale pe kaam karna hei
+- Have to use Qdrant ( rust backend hai , so will be faster for sure)
   
 
 
