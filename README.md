@@ -38,9 +38,9 @@ added two things url and pdf uploader .... where if you upload it will update in
 
 NOTES:
 
-Geninuely , I had to make it in hurry(5hrs){deployment mein issue thha} due to some previous commitments , please consider if you like.
-I could make it to Slack BOT easily , but really some previous commitments till 15th jan
-Please inform me if this pleases you ,  becuase AWS ec2 cost and API cost .. i need to turn it off.
+- Geninuely , I had to make it in hurry(5hrs){deployment mein issue thha} due to some previous commitments , please consider if you like.
+- I could make it to Slack BOT easily , but really some previous commitments till 15th jan
+- Please inform me if this pleases you ,  becuase AWS ec2 cost and API cost .. i need to turn it off.
 
 
 
