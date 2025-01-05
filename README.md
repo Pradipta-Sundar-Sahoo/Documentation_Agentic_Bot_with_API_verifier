@@ -37,6 +37,8 @@ Simple RAG (memory wagera hei)
 - Agentic framework ---> more tools and more better
 - URL parser is not perfect ... some websites it cannot scan (((But PDF one is best, Because LLAMA PARSE is ❤️))) ---- url waale pe kaam karna hei
 - Have to use Qdrant ( rust backend hai , so will be faster for sure)
+- level0 pe simple RAG ya isme bhi agentic 
+- Evaluation is must
   
 
 
