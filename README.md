@@ -1,6 +1,6 @@
-[level 0](http://54.90.127.180:8501/)
-[level 1](http://54.90.127.180:8502/)
-Level 2 is made , BUT 3 Tmux session in a single instance was not running ... You can Set the API keys in local and Run it 
+- [level 0](http://54.90.127.180:8501/)
+- [level 1](http://54.90.127.180:8502/)
+- Level 2 is made , BUT 3 Tmux session in a single instance was not running ... You can Set the API keys in local and Run it 
 
 ```
 OPENAI_API_KEY=""
