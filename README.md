@@ -14,16 +14,16 @@ streamlit run level2.py
 
 
 
-- level0 : Simple RAG
+- ##level0 : Simple RAG (memory wagera hei)
 
   
--level1 : level0 + Used Agentic Framework 
+- ##level1 : level0 + Used Agentic Framework 
 - Supervisior Node
 - Tool Node( 2 tools --> 1) google search, for external queries 2) query_vectordb --> for crustdataAPI usage queries
 - Validator Node ( which validates API)
 
 
-- level2: level1+
+- ##level2: level1+
 added two things url and pdf uploader .... where if you upload it will update in db
 
 
