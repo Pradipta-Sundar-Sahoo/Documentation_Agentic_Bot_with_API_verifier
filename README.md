@@ -43,6 +43,10 @@ NOTES:
 - Please inform me if this pleases you ,  becuase AWS ec2 cost and API cost .. i need to turn it off.
 
 
+### Outputs Expected
+![f191ced2-cebc-4362-8953-244e9909fe95](https://github.com/user-attachments/assets/b6bb2cc5-dc86-4ce9-b160-45e23968ab8d)
+
+
 
 
 Great Problem Statement.. Love it ❤️
