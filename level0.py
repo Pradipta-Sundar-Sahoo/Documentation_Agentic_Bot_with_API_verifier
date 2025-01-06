@@ -57,6 +57,8 @@ def run_level0():
         4. Common errors, troubleshooting, and limitations.
         5. Always try to give the source where you are refering(see if there's any link, python documentation, curl command)
 
+        Always try to give CrustDATA API reference.
+
         Use only the information from the context and mention if anything is missing."""
 
 
@@ -66,8 +68,8 @@ def run_level0():
     ])
 
     llm = ChatOpenAI(
-        model="gpt-3.5-turbo",
-        temperature=0.4,
+        model="gpt-4o",
+        temperature=0.9,
         max_tokens=1024,
         api_key=OPENAI_API_KEY
     )
