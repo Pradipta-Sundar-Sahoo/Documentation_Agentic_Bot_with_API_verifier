@@ -51,9 +51,6 @@ NOTES:
 - May have issue with prompt template , could be fixed next turn.
 
 
-### Outputs Expected
-![bd512251-d2b4-45a6-afc6-c2f649c4591d](https://github.com/user-attachments/assets/e834b735-8357-4f51-95f4-f7d537db8a6e)
-
 
 
 
